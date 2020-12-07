@@ -1,0 +1,19 @@
+  git init
+   17  git add .
+   18  git satatus
+   19  git init
+   20  git add .
+   21  git status
+   22  git add .
+   23  git status
+   24  git commit-m
+   25  git commit-m"this is my first project"
+   26  git commit -m "this is my first project"
+   27*
+   28   git config --global user.email "archsinghh3@gmail.com"
+   29   git config --global user.name "Archana-Manu"
+   30  git commit -m "this is my first project"
+   31  git log
+   32  git remote add origin https://github.com/Archana-Manu/First_Devops.git
+   33  git push -u origin master
+   34  history
